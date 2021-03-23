@@ -68,7 +68,7 @@ your info so you can book almost instantly. Unfortunatly, it doesn't appear you 
   
 ## Getting Alerts  
 
-The best bet for these is to be alerted to when new appointments pop up. If you are in CO you can follow this account: [@CoVaxAlerts](https://twitter.com/covaxalerts) (huge thanks to (@nickblah)[https://twitter.com/nickblah]). 
+The best bet for these is to be alerted to when new appointments pop up. If you are in CO you can follow this account: [@CoVaxAlerts](https://twitter.com/covaxalerts) (huge thanks to [@nickblah](https://twitter.com/nickblah)). 
 They post when new appointments become available. It can be noisy and sometimes there's a lot of stuff that comes up for a few minutes later. What's really the most useful 
 is that when a store launches new appointments you'll see a flood of stuff for that store. That's your trigger to go in and try to snatch one up!  
   
