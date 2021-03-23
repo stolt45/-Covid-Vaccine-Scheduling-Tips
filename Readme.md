@@ -1,7 +1,7 @@
 # Tips for Finding a Vaccine Appointment
 
-After seeing a lot of folks struggling to find vaccine appointments I started to look up appointments before I was elegable. I'm psudo-unemployed 
-so I figured I'd spend some time getting a lay of the land. I booked my first dose appointment with a couple of days of my elegability and have been 
+After seeing a lot of folks struggling to find vaccine appointments I started to look up appointments before I was eligible. I'm pseudo-unemployed 
+so I figured I'd spend some time getting a lay of the land. I booked my first dose appointment with a couple of days of my eligibility and have been 
 successful in helping a few friends find appointments. So I figured I'd share tips I learned along the way, hopefully they'll help. YMMV. 
 
 A couple of points before getting going:  
@@ -21,7 +21,7 @@ There's currently (at the time this was written) 3 vaccines approved in the US:
   
 Once you get your first dose (for Pfizer or Moderna) then you should automatically get your second dose scheduled. So the guide is really on finding that first dose.  
   
-There are a lot of places that are offering vaccines right now, most all pharmacys do. That means a lot of grocrey stores offer bookings. When they release new appointments
+There are a lot of places that are offering vaccines right now, most all pharmacies do. That means a lot of grocery stores offer bookings. When they release new appointments
 they tend to go quickly. So the real key is to have an understanding for a particular place releases new appointments and then going to their site and booking quickly!  
 
 If you have the ability to drive or catch a ride a few towns over it can greatly increase your chances of finding something. Smaller towns tend to have more appointments 
@@ -29,7 +29,7 @@ around for longer and larger ones/cities can be exceptionally hard to nail down 
 
 ## List of Places
 
-This is a list of places and why they tend to release new appointments. The exact times can flucuate and might be a bit different depending upon your location. But, 
+This is a list of places and when they tend to release new appointments. The exact times can fluctuate and might be a bit different depending upon your location. But, 
 I've found these to be fairly accurate for predicting when to find a slew of new appointments at a given place. The links here are the deepest links to any particular
 site I could find.  
   
@@ -47,23 +47,23 @@ site I could find.
 your info so you can book almost instantly. Unfortunatly, it doesn't appear you can save this info from one search session to another.  
   
 [Walmart](https://www.walmart.com/account/login?returnUrl=/pharmacy/clinical-services/immunization/scheduled?imzType=covid):  
-**New Appointments**: Haven't noticed a patern to when these are released yet. :(  
+**New Appointments**: Haven't noticed a pattern to when these are released yet. :(  
 **Note**: You need a login on their site just to search for something. The search is somewhat limited and cumbersome to use.  
   
 [King Soopers](https://www.kingsoopers.com/i/coronavirus-update/vaccine)💔:  
-**New Appointments**: Haven't yet noticed a patern for them.  
+**New Appointments**: Haven't yet noticed a pattern for them.  
 **Note**: They have a bot that you communicate with to walk you though the process. Kinda cool! 
   
 [Kroger](https://www.kroger.com/i/coronavirus-update/vaccine):  
-**New Appointments**: Haven't yet noticed a patern for them.  
-**Note**: Same as King Soopers bascially.  
+**New Appointments**: Haven't yet noticed a pattern for them.  
+**Note**: Same as King Soopers basically.  
   
 [Sam's Club](https://www.samsclub.com/pharmacy/immunization?imzType=covid):  
-**New Appointments**: Haven't yet noticed a patern for them.  
+**New Appointments**: Haven't yet noticed a pattern for them.  
 **Note**: You might have to be a member, not sure.  
   
 [Safeway](https://www.mhealthappointments.com/covidappt):  
-**New Appointments**: Haven't yet noticed a patern for them.  
+**New Appointments**: Haven't yet noticed a pattern for them.  
 **Note**: They let you pick which vaccine you want and offer up to a 50 mile range on the search.  
   
 ## Getting Alerts  
